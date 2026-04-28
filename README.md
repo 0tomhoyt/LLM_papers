@@ -11,6 +11,7 @@ LLM 相关论文的中文阅读笔记整理，按主题分类。
 | LLMOrbit: A Circular Taxonomy of Large Language Models | Microsoft | 2026.04 | 缩放墙、模型分类、Agentic AI、架构演进 | [阅读笔记](01_综述与全景/LLMOrbit/01_阅读笔记.md) |
 | Mapping the LLM Landscape: A Cross-Family Survey (Ma et al.) | Ma et al. | 2024.12 | GPT/Claude/Gemini/Llama/GLM/Qwen 六大家族对比、性能排名 | [阅读笔记](01_综述与全景/Mapping_LLM_Landscape_Ma/01_阅读笔记.md) |
 | Mapping the LLM Landscape: A Cross-Family Survey (Wang et al.) | Wang et al. | 2026 | 架构收敛、对齐安全、开源/闭源互补 | [阅读笔记](01_综述与全景/Mapping_LLM_Landscape_Wang/01_阅读笔记.md) |
+| Beyond the Black Box: A Survey on the Theory and Mechanism of LLMs | Zhang et al. | 2026.01 | 生命周期分类、缩放定律、ICL机制、对齐方法、幻觉、线性表示假说 | [阅读笔记](01_综述与全景/Beyond_the_Black_Box/01_阅读笔记.md) |
 
 ### 02_架构与训练
 
@@ -28,7 +29,9 @@ LLM 相关论文的中文阅读笔记整理，按主题分类。
 │   ├── Mapping_LLM_Landscape_Ma/
 │   │   ├── paper.pdf
 │   │   └── 01_阅读笔记.md
-│   └── Mapping_LLM_Landscape_Wang/
+│   ├── Mapping_LLM_Landscape_Wang/
+│   │   └── 01_阅读笔记.md
+│   └── Beyond_the_Black_Box/
 │       └── 01_阅读笔记.md
 ├── 02_架构与训练/
 │   └── DeepSeek_V4/
